@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BassAudio/1.0.0": {
+        "dependencies": {
+          "Bass.Net": "2.4.14.1"
+        },
+        "runtime": {
+          "BassAudio.dll": {}
+        }
+      },
+      "Bass.Net/2.4.14.1": {
+        "runtime": {
+          "Bass.Net.dll": {
+            "assemblyVersion": "2.4.14.1",
+            "fileVersion": "2.4.14.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BassAudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bass.Net/2.4.14.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

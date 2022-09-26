@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7EWuV9zfWNln8HTXRJVSsCGWiD5tpmKh7sEciMzyMBTF4oHMI5uAJ9MjS/lLC9Za/niSoCERRFJBo7udcSjwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peter.gryniv\\source\\repos\\BassAudio\\BassAudio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\peter.gryniv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

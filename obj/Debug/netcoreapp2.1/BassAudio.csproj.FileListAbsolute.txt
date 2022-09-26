@@ -1,0 +1,17 @@
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\BassAudio.deps.json
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\BassAudio.runtimeconfig.json
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\BassAudio.runtimeconfig.dev.json
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\BassAudio.dll
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\BassAudio.pdb
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.csproj.AssemblyReference.cache
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.AssemblyInfoInputs.cache
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.AssemblyInfo.cs
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.csproj.CoreCompileInputs.cache
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.dll
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.pdb
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.genruntimeconfig.cache
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\Bass.Net.dll
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\Bass.Net.xml
+C:\Users\peter.gryniv\source\repos\BassAudio\obj\Debug\netcoreapp2.1\BassAudio.csproj.CopyComplete
+C:\Users\peter.gryniv\source\repos\BassAudio\bin\Debug\netcoreapp2.1\bass.dll
